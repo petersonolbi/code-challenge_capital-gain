@@ -2,13 +2,15 @@
 .classpath
 .project
 .settings/
-/.project
+
+# Gradle
+.gradle/
 
 # IntelliJ IDEA
 *.iml
-/.idea/
+.idea/
 
 # Java
-/bin/
-/build/
-/target/
+bin/
+build/
+target/
