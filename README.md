@@ -5,7 +5,7 @@
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-blue?logo=eclipseide)](https://eclipseide.org)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea)
 [![Build](https://github.com/petersonolbi/code-challenge_capital-gain/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/petersonolbi/code-challenge_capital-gain/actions/workflows/gradle.yml)
-[![Codacy](https://app.codacy.com/project/badge/Grade/f18ec2fb81884127b5862c73a48b67b6)](https://app.codacy.com/gh/petersonolbi/code-challenge_capital-gain/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy](https://app.codacy.com/project/badge/Grade/8edfd1b23be44bddb9f6882d50357197)](https://app.codacy.com/gh/petersonolbi/code-challenge_capital-gain/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=code-challenge_capital-gain&metric=coverage&token=a02a5d6bd1791866ec558de9dce684a643b3a2ec)](https://sonarcloud.io/summary/new_code?id=code-challenge_capital-gain)
 [![Last Commit](https://img.shields.io/github/last-commit/petersonolbi/code-challenge_capital-gain/main)](https://github.com/petersonolbi/code-challenge_capital-gain/commits/main)
 [![License](https://img.shields.io/github/license/petersonolbi/code-challenge_capital-gain)](LICENSE)
